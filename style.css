@@ -124,3 +124,18 @@ h1{
     width: 100%;
     margin-top: 12px;
 }
+
+@media only screen and (max-width:992px) {
+    #header, #footer {
+        padding: 16px, 32px;
+        width: 100%;
+    }
+
+    #body {
+        padding: 64px, 32px;
+        
+    }
+    #body > .div {
+        width: 100%;
+    }
+}
