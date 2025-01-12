@@ -129,13 +129,16 @@ h1{
     #header, #footer {
         padding: 16px, 32px;
         width: 100%;
+        font-size: 100%;
     }
 
     #body {
         padding: 64px, 32px;
+        font-size: 100%;
         
     }
     #body > .div {
         width: 100%;
+        font-size: 100%;
     }
 }
