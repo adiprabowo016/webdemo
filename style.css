@@ -151,3 +151,24 @@ h1{
         font-size: 50%;
     }
 }
+
+
+
+footer .top-footer {
+    position: relative;
+    padding: 40px 0px;
+}
+.row.row-wrap {
+    flex-wrap: wrap;
+}
+
+.row {
+    display:flex
+}
+
+footer .bottom-footer {
+    display: flex
+;
+    justify-content:center;
+    padding: 20px 0px;
+}
